@@ -5,7 +5,7 @@
 /*
  * jiawei4@staff.sina.com.cn
  * 1. 要求输入的三元组文件为按照第一个关键字排序
- * 2. 参考：
+ * 2. 参考： http://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm
  * */
 #define LINE 2500   // 列2的UID数目
 #define SHARE 1000  // 列1与列2 共享的互粉数目
