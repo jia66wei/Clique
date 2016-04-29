@@ -16,6 +16,6 @@ python算法包---networkx:
    6.2 从屏幕输入数据 python2.6 Clique_nx.py  < input.txt
    6.3 Clique_nx.py : 添加了三元组数目限制
 7.
-	created by 20160429   
+	created by 20160429  at 16:16 
     
 *************************************************************************
